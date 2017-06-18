@@ -53,6 +53,20 @@ textarea, input{
 .rojo {
   color: red;
 }
+
+.btn {
+background-color: DeepPink;
+color: white;
+border-radius: 5px;
+}
+
+#comentarios > * {
+  background-color: pink;
+  border-radius: 5px;
+  margin-top: 10px;
+  padding: 5px 10px;
+}
+
 footer{
   padding: 10px;
 }
